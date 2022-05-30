@@ -1,4 +1,4 @@
-package roboy.loomo.loomocontroller;
+package roboy.loomo.loomosocketcontroller;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("roboy.loomo.loomocontroller", appContext.getPackageName());
+        assertEquals("roboy.loomo.loomosocketcontroller", appContext.getPackageName());
     }
 }

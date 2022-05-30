@@ -1,4 +1,4 @@
-package roboy.loomo.loomocontroller;
+package roboy.loomo.loomosocketcontroller;
 
 import org.junit.Test;
 

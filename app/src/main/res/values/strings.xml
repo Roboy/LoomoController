@@ -1,6 +1,3 @@
 <resources>
-    <string name="app_name">LoomoController</string>
-    <string name="status_list">Device List</string>
-    <string name="status_removed">Device Detached</string>
-    <string name="status_added">Device Attached</string>
+    <string name="app_name">LoomoSocketController</string>
 </resources>
